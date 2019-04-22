@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Florian\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Florian\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_2D RPG.-1624460345.00" t="ExcludeRecursive" />
+    <e p="E:\Data Storage\Udemy\Unity 2D RPG\Project\2D RPG" t="IncludeRecursive">
+      <e p="2D RPG.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scirpts" t="Include">
+          <e p="AreaEntrance.cs" t="Include" />
+          <e p="AreaExit.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerLoader.cs" t="Include" />
+        </e>
+        <e p="Udemy RPG Assets" t="Include">
+          <e p="Licence.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
